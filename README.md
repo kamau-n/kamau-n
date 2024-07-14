@@ -21,20 +21,34 @@
 - 📫 How to reach me :
 -  - email :kamaun629@gmail.com
 -  - phone +254759155650
+ 
+
+ <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+</picture>
 
 ## Frameworks
  - Express (js/ts)
  - Springboot
  - React
  - Next
+ - React Native
  
 ## Databases
  - Mysql
  - Mongo
  - Postgre
  - Firebase
+
+
+## Technologies
+ -  Docker
+ -  Temporal
+ -  Jenkins
  
- 
+
+
 
 <!---
 kamau-n/kamau-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
