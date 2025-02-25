@@ -18,6 +18,9 @@
 - 👀 I’m Software Engineer with a degree in computer science
 - 🌱 My Strengths are Typescript, Javascript,Java and PHP
 
+- [Member of awesome solution](awesome.co.ke)
+ 
+
 - 📫 How to reach me :
 -  - email :kamaun629@gmail.com
 -  - phone +254759155650
