@@ -15,14 +15,14 @@
 
 
 - 👋 Hi, I’m Kamau Harrison
-- 👀 I’m Software Engineer with a degree in computer science
-- 🌱 My Strengths are Typescript, Javascript,Java and PHP
+- 👀 I’m Software Engineer 
 
 - [Member of awesome solutions](awesome.co.ke)
  
 
 - 📫 How to reach me :
--  - email :kamaun629@gmail.com ,kamau@awesome.co.ke
+-  - email :kamaun629@gmail.com
+-   - email harrison@awesome.co.ke
 -  - phone +254759155650
  
 
