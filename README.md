@@ -22,7 +22,6 @@
 
 - 📫 How to reach me :
 -  - email :kamaun629@gmail.com
--   - email harrison@awesome.co.ke
 -  - phone +254759155650
  
 
@@ -37,16 +36,21 @@
  - React
  - Next
  - React Native
+ - Angular
+ - Fibre
  
 ## Databases
  - Mysql
  - Mongo
  - Postgre
  - Firebase
+ - Redis
 
 
 ## Technologies
  -  Docker
+ -  Jira
+ -  Kubernetes
  -  Temporal
  -  Jenkins
  
