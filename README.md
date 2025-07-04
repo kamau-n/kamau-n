@@ -5,25 +5,25 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamau-n&label=Profile%16views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kamau-n&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ## 🧰 Languages and Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" height="16" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/springboot/springboot.png" alt="Springboot" height="16" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/node/node.png" alt="Express" height="16" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="16" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" height="16" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/next/next.png" alt="Next" height="16" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" height="16" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" height="16" style="margin: 4px;" />
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" height="16" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP" height="16" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="GO" height="16" style="margin: 4px;" />
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="16" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" height="8" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/springboot/springboot.png" alt="Springboot" height="8" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/node/node.png" alt="Express" height="8" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="8" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" height="8" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/next/next.png" alt="Next" height="8" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" height="8" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" height="8" style="margin: 4px;" />
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" height="8" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP" height="8" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="GO" height="8" style="margin: 4px;" />
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="8" style="margin: 4px;" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" height="4" style="margin: 4px;" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="4" style="margin: 4px;" /> -->
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="4" style="margin: 4px;" />
@@ -69,7 +69,7 @@ Here are a few projects that highlight what I do:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamau-n&show_icons=true&theme=default" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamau-n&show_icons=true&theme=default" alt="GitHub Stats" height="80" />
 </p>
 
 ---
