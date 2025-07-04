@@ -15,9 +15,12 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="24" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" height="24" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" height="24" style="margin: 4px;" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="24" style="margin: 4px;" />
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Java" height="24" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="PHP" height="24" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="CSS" height="24" style="margin: 4px;" />
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="24" style="margin: 4px;" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" height="4" style="margin: 4px;" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="4" style="margin: 4px;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="4" style="margin: 4px;" /> -->
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="4" style="margin: 4px;" />
 </p>
 
