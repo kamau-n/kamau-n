@@ -12,12 +12,15 @@
 
 ## 🧰 Languages and Tools
 <p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" height="20" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/springboot/springboot.png" alt="Springboot" height="20" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express" height="20" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="24" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" height="24" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" height="24" style="margin: 4px;" />
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" height="24" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP" height="24" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/golang/golang.png" alt="CSS" height="24" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="GO" height="24" style="margin: 4px;" />
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="24" style="margin: 4px;" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" height="4" style="margin: 4px;" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="4" style="margin: 4px;" /> -->
