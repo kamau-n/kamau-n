@@ -8,20 +8,21 @@
 
 ## 🧰 Languages and Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="40" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" height="40" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="30" style="margin: 6px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" height="30" style="margin: 6px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" height="30" style="margin: 6px;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="30" style="margin: 6px;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" height="30" style="margin: 6px;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="30" style="margin: 6px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="30" style="margin: 6px;" />
 </p>
 
 ---
 
 ## ⚙️ Frameworks & Libraries
-- **Backend:** Express (JS/TS), Spring Boot  
+- **Backend:** Express (JS/TS), Spring Boot,Go ,PHP  
 - **Frontend:** React, Next.js, Angular, React Native, Fibre
+- **Mobile:** React Native,Flutter
 
 ---
 
@@ -40,6 +41,8 @@
 - Jenkins
 - Jira
 - Temporal.io
+- Nginx
+  
 
 ---
 
@@ -85,6 +88,7 @@ Here are a few projects that highlight what I do:
 - 💼 [Member of Awesome Solutions](https://awesome.co.ke)
 - 📧 Email: [kamaun629@gmail.com](mailto:kamaun629@gmail.com)  
 - 📱 Phone: +254 759 155 650
+-  Narobi, Kenya
 
 ---
 
